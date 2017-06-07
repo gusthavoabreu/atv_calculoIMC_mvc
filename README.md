@@ -18,7 +18,7 @@ Para rodar com o Tomcat ignorando as configurações do plugin no `pom.xml`.
 
 ## Para acessar a aplicação, acesse o servlet 
 
-`http://localhost:8080/atv_calculoimc_mvc/imcerto` em qualquer navegador.
+`http://localhost:9090/atv_calculoimc_mvc/imcerto` em qualquer navegador.
 
 ### Para "empacotar" a aplicação.
 
