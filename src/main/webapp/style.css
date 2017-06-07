@@ -3,7 +3,7 @@
     font-family: 'Source Sans Pro', sans-serif;
 }
 img.avatar {
-    width: 50%;
+    width: 30%;
     border-radius: 50%;
 }
 
@@ -39,8 +39,7 @@ select {
     margin: 3em auto;
     display: flex;
     flex-direction: column;
-    width: 30em;
-    height: 30em;
+
     background-color: #Fffff8;
     border-radius: 5px;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);

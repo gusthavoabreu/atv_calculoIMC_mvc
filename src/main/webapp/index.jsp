@@ -24,9 +24,9 @@
         <br /><label>Peso</label><br />
         <input type="text" placeholder="Digite seu peso em kg" name="peso" id="peso" required>
         
-        <input class=css_btn_class name="Enviar" type="submit" value="Calcular" />
+        <input class=css_btn_class name="Enviar" type="submit" style="margin-top: 20px;" value="Calcular" />
     
-    	        <div class="alert alert-success" role="alert" style="margin-top:45px">${resultado}</div>
+    	        <div class="alert alert-success" role="alert" style="margin-top:45px; margin-bottom: 40px;">${resultado}</div>
     	
       </form>
     </div>   
