@@ -6,7 +6,7 @@ Laboratório da turma de Programação para Web.
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/gusthavoabreu/atv_calculoIMC_mvc.git`
 
 ### Para rodar com o Tomcat.
 
@@ -16,9 +16,9 @@ Para rodar com o Tomcat ignorando as configurações do plugin no `pom.xml`.
 
 `mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run`
 
-## Para acessar a aplicação
+## Para acessar a aplicação, acesse o servlet 
 
-`http://localhost:8080/lab-pw-2017-1` em qualquer navegador.
+`http://localhost:9090/atv_calculoimc_mvc/imcerto` em qualquer navegador.
 
 ### Para "empacotar" a aplicação.
 
